@@ -8,7 +8,7 @@ This project analyzes employee attrition data to identify key drivers of employe
 - Identify factors influencing employee turnover
 - Support retention strategies using data-driven insights
 
-## 🗂️ Project Structure<img width="1171" height="645" alt="hr analysys dashboard screenschot" src="https://github.com/user-attachments/assets/7f6e3062-5b55-4d1c-a734-d87632ee7ede" />
+## 🗂️ Project Structure
 
 employee-attrition-analysis/
 │
