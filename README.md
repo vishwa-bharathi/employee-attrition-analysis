@@ -26,6 +26,8 @@ employee-attrition-analysis/
 - Excel (Data Cleaning & Validation)
 
 ## 📊 Dashboard Preview
+![Employee Attrition Dashboard](screenshots/hr_analysis_dashboard_screenshot.png)
+
 The Power BI dashboard provides an interactive view of employee attrition trends by:
 - Department
 - Tenure
