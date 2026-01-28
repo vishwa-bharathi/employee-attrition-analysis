@@ -26,7 +26,7 @@ employee-attrition-analysis/
 - Excel (Data Cleaning & Validation)
 
 ## 📊 Dashboard Preview
-![HR Employee Attrition Dashboard](screenshots/hr%20analysis%20dashboard%20screenshot.png)
+![HR Employee Attrition Dashboard](screenshots/hr_data_analysis_dashboard_screenshot.png)
 
 
 
