@@ -12,9 +12,9 @@ ORDER BY  emp_count desc;
 
 -- Q2. Department & Role Composition
 -- Which departments and job roles make up the largest portion of the workforce?
-SELECT Department,JobRole,count(*) emp_count
+SELECT Department,count(*) emp_count
 FROM hr_analysis
-GROUP BY Department,JobRole
+GROUP BY Department
 ORDER BY  emp_count desc;
 
 
